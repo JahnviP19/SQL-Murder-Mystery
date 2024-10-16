@@ -1,4 +1,4 @@
-This repository contains my solution to the "Murder Mystery" game, created using the interactive tool by Knight Lab's Murder Mystery Game. The game presents a fictional crime investigation, requiring players to analyze clues, suspects, and events to determine the perpetrator.
+This repository contains my solution to the "Murder Mystery" game(https://mystery.knightlab.com/), created using the interactive tool by Knight Lab's Murder Mystery Game. The game presents a fictional crime investigation, requiring players to analyze clues, suspects, and events to determine the perpetrator.
 
 Contents
 Solution File: My detailed step-by-step reasoning and conclusion to solve the murder mystery.
